@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin.html
+
+Sitemap: https://bucolic-llama-2cb081.netlify.app/sitemap.xml
